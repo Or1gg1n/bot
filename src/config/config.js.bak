@@ -1,0 +1,8 @@
+
+module.exports = {
+    prefix: '.!',
+    color: 'RED',
+    invitePermissions: '8',
+    discordDomain: 'discord.com',
+    ownerID: '624046352145317908'
+};
